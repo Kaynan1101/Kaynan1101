@@ -123,20 +123,20 @@ Olá, me chamo Kaynan Lima de Oliveira, tenho 24 anos e sou do interior de SP. A
 ### Estatísticas
 
 <p>
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=Kaynan1101&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br" 
-/>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Kaynan1101&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br" 
+  />
 
 <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaynan1101&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaynan1101&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 </p>
 
