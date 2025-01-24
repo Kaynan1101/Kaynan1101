@@ -5,7 +5,7 @@
 **`Desenvolvedor Fullstack em Progresso`**
 
 
-Olá, me chamo Kaynan Lima de Oliveira, tenho 24 anos e sou do interior de SP. Atualmente sou Analista Agrícola em uma empresa de minha cidade que não é da minha área de estudo. Faço faculdade de ADS na FATEC de Presidente Prudente e estou me desenvolvendo ao máximo para conseguir migrar de área com os conhecimentos necessários para eu ser um desenvolvedor de excelente qualidade.
+Olá, me chamo Kaynan Lima de Oliveira, tenho 24 anos e sou do interior de SP. Atualmente sou Analista Agrícola em uma empresa da minha cidade que não é relacionada a minha área de estudo. Faço faculdade de ADS na FATEC de Presidente Prudente e estou me desenvolvendo ao máximo para conseguir migrar de área com os conhecimentos necessários para eu ser um desenvolvedor de excelente qualidade.
 
 ---
 
