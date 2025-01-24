@@ -4,6 +4,7 @@
 
 **`Desenvolvedor Fullstack em Progresso`**
 
+
 Olá, me chamo Kaynan Lima de Oliveira, tenho 24 anos e sou do interior de SP. Atualmente sou Analista Agrícola em uma empresa de minha cidade que não é da minha área de estudo. Faço faculdade de ADS na FATEC de Presidente Prudente e estou me desenvolvendo ao máximo para conseguir migrar de área com os conhecimentos necessários para eu ser um desenvolvedor de excelente qualidade.
 
 ---
@@ -120,6 +121,16 @@ Olá, me chamo Kaynan Lima de Oliveira, tenho 24 anos e sou do interior de SP. A
 
 ---
 
+### Contatos
+
+<p align="left">
+  <a href="https://instagram.com/___kaylima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaynanlima" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kaynanlima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaynanlima" height="30" width="40" /></a>
+</p>
+
+
+---
+
 ### Estatísticas
 
 <p>
@@ -139,18 +150,5 @@ Olá, me chamo Kaynan Lima de Oliveira, tenho 24 anos e sou do interior de SP. A
   />
 
 </p>
-
----
-
-### Contatos
-
-<p align="center">
-  <a href="https://instagram.com/___kaylima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaynanlima" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/kaynanlima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaynanlima" height="30" width="40" /></a>
-</p>
-
-<br>
-<br>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=049eea&height=120&section=footer"/>
