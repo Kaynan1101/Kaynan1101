@@ -1,4 +1,4 @@
-\*\*\*\*<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=049eea&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=049eea&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=049eea&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+my+name+is+Kaynan+Lima;Be+Welcome!)](https://git.io/typing-svg)
 
