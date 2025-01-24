@@ -140,4 +140,17 @@ Olá, me chamo Kaynan Lima de Oliveira, tenho 24 anos e sou do interior de SP. A
 
 </p>
 
+---
+
+### Contatos
+
+<p align="center">
+  <a href="https://instagram.com/___kaylima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaynanlima" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kaynanlima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaynanlima" height="30" width="40" /></a>
+</p>
+
+<br>
+<br>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=049eea&height=120&section=footer"/>
