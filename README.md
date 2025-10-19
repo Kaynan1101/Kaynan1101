@@ -1,154 +1,91 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=049eea&height=120&section=header"/>
+# Olá, eu sou o Kaynan.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=049eea&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+my+name+is+Kaynan+Lima;Be+Welcome!)](https://git.io/typing-svg)
+<div align="center">
+  
+**Desenvolvedor & Analista de Dados**
 
-**`Desenvolvedor Fullstack em Progresso`**
-
-
-Olá, me chamo Kaynan Lima de Oliveira, tenho 24 anos e sou do interior de SP. Atualmente sou Analista Agrícola em uma empresa da minha cidade que não é relacionada a minha área de estudo. Faço faculdade de ADS na FATEC de Presidente Prudente e estou me desenvolvendo ao máximo para conseguir migrar de área com os conhecimentos necessários para eu ser um desenvolvedor de excelente qualidade.
-
----
-
-### Linguagens Favoritas
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Golang" 
-    title="Golang"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
-/>
-
-<br/>
-
-### Conhecimentos Básicos
-
-<img 
-    align="left" 
-    alt="Csharp" 
-    title="Csharp"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
+</div>
 
 ---
 
-### Contatos
+## 🚀 Sobre Mim
 
-<p align="left">
-  <a href="https://instagram.com/___kaylima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaynanlima" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/kaynanlima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaynanlima" height="30" width="40" /></a>
-</p>
+Tenho 24 anos e estou concluindo Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente - SP. Embora ainda não esteja atuando profissionalmente na área, sou movido pela vontade de criar soluções que resolvam problemas reais.
+
+Gosto de desenvolver projetos práticos que ajudem pessoas próximas de mim e consequentemente me ajuda a evoluir.
+
+---
+
+## 💼 Áreas de Interesse
+
+### Análise de Dados
+Tenho forte habilidade com Excel, Power BI e SQL. A área de dados me atrai pelo fato de hoje eu trabalhar como analista em uma usina sucroalcooleira e ver o impacto que dados traz para tomadores de decisão faz eu ser facinado pela área de dados.
+
+### Desenvolvimento de Software
+Sou um entusiasta de Java, Python e GO. Não atuo hoje na área de desenvolvimento mas sempre tento trazer isso para meu trabalho e mostrar para as pessoas que são de fora da nossa bolha que é um mundo fascinante e que pode dar muito resultado.
+
+### Geoprocessamento
+Tenho conhecimentos em GIS (Sistemas de Informação Geográfica) pelo fato de trabalhar em cooperação com o pessoal da geotecnologia criando soluções e facilidades para o pessoal do campo.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens de Programação
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Dados & Business Intelligence
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Ferramentas & Versionamento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Outros
+- **Banco de Dados:** Experiência com modelagem e consultas
+- **GIS:** Conhecimentos em Sistemas de Informação Geográfica
+- **Administração:** Formação técnica complementar
+
+---
+
+## 🎯 Objetivos e Motivações
+
+- Desenvolver soluções tecnológicas que facilitem o dia a dia das pessoas  
+- Criar aplicações úteis e práticas para quem está ao meu redor  
+- Ser uma referência em criar valor através da tecnologia  
+- Continuar aprendendo e compartilhando conhecimento
+
+---
+
+## 📚 Formação
+
+- Análise e Desenvolvimento de Sistemas - Fatec Presidente Prudente *(em conclusão)*
+
+---
+
+## 🌱 Atualmente Estudando
+
+- Aprofundamento em Java
+- Análise de Dados e Business Intelligence
+- Desenvolvimento de soluções práticas e úteis
+
+---
+
+## 📫 Vamos Conectar?
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([seu-linkedin-aqui](https://www.linkedin.com/in/kaynanlima/))
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaynan.lima1101@hotmail.com)
 
 
 ---
 
-### Estatísticas
+<div align="center">
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Kaynan1101&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaynan1101&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=049eea&height=120&section=footer"/>
+</div>
