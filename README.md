@@ -80,7 +80,7 @@ Tenho conhecimentos em GIS (Sistemas de Informação Geográfica) pelo fato de t
 
 ## 📫 Vamos Conectar?
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([seu-linkedin-aqui](https://www.linkedin.com/in/kaynanlima/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kaynanlima/))
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaynan.lima1101@hotmail.com)
 
 
