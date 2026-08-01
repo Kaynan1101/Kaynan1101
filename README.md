@@ -1,77 +1,114 @@
-# Olá, eu sou o Kaynan 👋
-
 <div align="center">
-  
-**Desenvolvedor & Analista de Dados**
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=950&height=70&duration=4000&lines=Olá,+eu+sou+o+Kaynan+Lima;Data+Analyst+%7C+Software+Developer;Computer+Vision+Enthusiast&color=CCCCCC" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Kaynan1101&label=Profile%20Views&color=555555&style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Data%20Analyst-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Software%20Developer-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GIS%20%26%20Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=white" />
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+# Sobre Mim
 
-Tenho 24 anos e estou concluindo o curso de Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente – SP. Embora ainda não atue profissionalmente na área, sou movido pela vontade de criar soluções práticas que resolvem problemas reais.
+Pós-graduando em **Data Science** e graduado em **Análise e Desenvolvimento de Sistemas** (Fatec Presidente Prudente). Atuo no setor agrícola de uma usina sucroalcooleira da região, desenvolvendo inteligência de dados, automações de processos operacionais e soluções analíticas.
 
-Gosto de desenvolver projetos que ajudam pessoas próximas a mim — e, ao mesmo tempo, me impulsionam a evoluir tecnicamente.
+Áreas de atuação e interesse:
+- **Análise de Dados & BI:** Engenharia/Análise de dados, processos de ETL, modelagem e construção de dashboards para suporte à tomada de decisão.
+- **Geoprocessamento (GIS):** Automação no tratamento de dados espaciais e integração com o fluxo de operações do campo.
+- **Visão Computacional:** Aplicações práticas de inteligência artificial para detecção, rastreamento e estatísticas esportivas.
+- **Automação de Processos:** Desenvolvimento de scripts e integração de sistemas para otimização de fluxos operacionais.
 
----
-
-## 💼 Áreas de Interesse
-
-### 🔍 Análise de Dados
-Possuo experiência com Excel, Power BI e SQL. Atualmente trabalho como analista em uma usina sucroalcooleira, o que me permite ver diariamente o impacto que os dados geram nas decisões estratégicas. Isso fez com que eu me tornasse apaixonado pela área.
-
-### 💻 Desenvolvimento de Software
-Sou entusiasta de Java, Python e Go. Apesar de não atuar profissionalmente como desenvolvedor, aplico esses conhecimentos no meu trabalho sempre que possível, mostrando para pessoas de fora da área como a tecnologia pode gerar resultados reais e impactantes.
-
-### 🌎 Geoprocessamento
-Tenho conhecimentos em GIS (Sistemas de Informação Geográfica), adquiridos através da cooperação com o setor de geotecnologia para criar soluções que facilitem o trabalho do time de campo.
+Contato:
+- **Email:** `kaynan.lima1101@hotmail.com`
+- **LinkedIn:** [linkedin.com/in/kaynanlima](https://www.linkedin.com/in/kaynanlima/)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+# Tech Stack & Ferramentas
 
-### ⚙️ Linguagens de Programação
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<div align="center">
 
-### 📊 Dados & Business Intelligence
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### Linguagens & Desenvolvimento
 
-### 🔧 Ferramentas & Versionamento
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,js,php,cs" />
 
-### 📌 Outros Conhecimentos
-- **Banco de Dados:** Modelagem e elaboração de consultas  
-- **GIS:** Sistemas de Informação Geográfica  
-- **Administração:** Experiência organizacional e de gestão  
+<br><br>
 
----
+### Análise de Dados & BI
 
-## 🎯 Objetivos e Motivações
+<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=CCCCCC"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=CCCCCC"/>
+<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=CCCCCC"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=CCCCCC"/>
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=CCCCCC"/>
 
-- Desenvolver soluções tecnológicas que facilitem o dia a dia das pessoas  
-- Criar aplicações úteis e aplicáveis para quem está ao meu redor  
-- Gerar valor por meio da tecnologia  
-- Continuar aprendendo, evoluindo e compartilhando conhecimento  
+<br><br>
 
----
+### Visão Computacional & Geoprocessamento
 
-## 📚 Formação
+<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=CCCCCC"/>
+<img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=ultralytics&logoColor=CCCCCC"/>
+<img src="https://img.shields.io/badge/QGIS-000000?style=for-the-badge&logo=qgis&logoColor=CCCCCC"/>
+<img src="https://img.shields.io/badge/GeoPandas-000000?style=for-the-badge&logo=python&logoColor=CCCCCC"/>
 
-- **Análise e Desenvolvimento de Sistemas – Fatec Presidente Prudente** *(em conclusão)*
+<br><br>
+
+### Ferramentas & Ambientes
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,conda" />
+
+</div>
 
 ---
 
-## 📫 Vamos Conectar?
+# Projetos em Destaque
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaynanlima/)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaynan.lima1101@hotmail.com)
+| Projeto | Descrição | Tecnologias |
+|---------|-------------|--------------|
+| **Sports Computer Vision & Scout** | Sistema de Visão Computacional para rastreamento de jogadores, bola e análise estatística | Python, OpenCV, YOLO, MediaPipe |
+| **GIS & Agrotech Automation** | Automação e processamento espacial para geração e distribuição de dados agrícolas | Python, GeoPandas, QGIS |
+| **Dashboards & Business Intelligence** | Desenvolvimento de painéis estratégicos e modelagem de consultas SQL operacionais | Power BI, SQL, Excel |
 
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaynan1101&show_icons=true&theme=dark&hide_border=true&title_color=CCCCCC&icon_color=CCCCCC&text_color=FFFFFF&bg_color=0D1117" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Kaynan1101&theme=dark&hide_border=true&ring=CCCCCC&fire=CCCCCC&currStreakLabel=CCCCCC&background=0D1117" />
+
+</div>
+
+---
+
+# Conexões
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kaynanlima/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=CCCCCC"/>
+</a>
+
+<a href="mailto:kaynan.lima1101@hotmail.com">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=CCCCCC"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### “Transformando dados e tecnologia em soluções práticas de alto impacto.”
+
+</div>
